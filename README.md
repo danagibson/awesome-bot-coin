@@ -16,5 +16,6 @@ Groups and members in alphabetical order w/ their ![Rally Username](https://www.
 
 ### Developers
 - [Mark Tucker](https://github.com/rmtuckerphx) (marktucker)
+- [Dana Gibson](https://github.com/danagibson) (danagibson)
 
 ### Influencers
